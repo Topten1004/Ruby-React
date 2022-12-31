@@ -1,0 +1,23 @@
+{
+  "name": "rails_react_js_ssr_setup",
+  "private": true,
+  "dependencies": {
+    "@babel/preset-react": "^7.7.0",
+    "@rails/actioncable": "^6.0.0",
+    "@rails/activestorage": "^6.0.0",
+    "@rails/ujs": "^6.0.0",
+    "@rails/webpacker": "^4.0.7",
+    "babel-plugin-transform-react-remove-prop-types": "^0.4.24",
+    "prop-types": "^15.7.2",
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0",
+    "react-on-rails": "11.3.0",
+    "react-router": "^5.1.2",
+    "react-router-dom": "^5.1.2",
+    "turbolinks": "^5.2.0"
+  },
+  "version": "0.1.0",
+  "devDependencies": {
+    "webpack-dev-server": "^3.9.0"
+  }
+}
